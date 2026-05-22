@@ -19,7 +19,7 @@ Python · Machine Learning · Optimization · Time Series · FastAPI · LLMs · 
 
 ## 📌 Resume & CV
 
-Resume: https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yanwei_Feng_resume%20(1).pdf
+Resume: https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yanwei_Feng_resume.pdf
 
 Cover Letter: https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yanwei_Feng_CV.pdf
 ## 📫 Contact
