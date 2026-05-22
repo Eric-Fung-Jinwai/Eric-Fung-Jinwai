@@ -1,6 +1,6 @@
 # Hi, I'm Eric Fung 👋
 
-M.S. Industrial & Systems Engineering student at USC, focused on AI products, automation, optimization, and applied machine learning.
+B.S. Applied Mathematic student at UCSD, and M.S. Industrial & Systems Engineering student at USC, focused on AI products, automation, optimization, and applied machine learning.
 
 ## 🚀 Featured Projects
 
@@ -15,12 +15,13 @@ Projects involving Claude, APIs, prompt chaining, structured outputs, and automa
 
 ## 🧠 Skills
 
-Python · Machine Learning · Optimization · Time Series · FastAPI · LLMs · RAG · LoRA · AWS · GitHub · Product Management
+Python · Machine Learning · Optimization · Time Series · FastAPI · LLMs · Fine-tunning · LangChain · RAG · LoRA · AWS · GitHub · Product Management
 
-## 📌 Portfolio
+## 📌 Resume & CV
 
-Website: http://18.217.220.60/
+Resume: https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yanwei_Feng_resume%20(1).pdf
 
+Cover Letter: https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yanwei_Feng_CV.pdf
 ## 📫 Contact
 
 Email: ericfung219@gmail.com  
