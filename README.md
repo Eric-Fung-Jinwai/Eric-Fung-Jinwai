@@ -26,7 +26,7 @@ Cover Letter: https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yan
 
 Email: ericfung219@gmail.com  
 LinkedIn: https://www.linkedin.com/in/yanwei-feng-284295288 -->
-# Hi, I'm Eric Fung 👋
+# Hi, I'm Yanwei Feng 
 
 M.S. Industrial & Systems Engineering graduate from USC and B.S. Applied Mathematics graduate from UC San Diego.
 
@@ -40,9 +40,9 @@ I build AI-powered systems focused on:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📈 AI Stock Research & Financial Analysis Platform
+## AI Stock Research & Financial Analysis Platform
 
 Production-style financial research assistant combining:
 - GPT-4o synthesis
@@ -66,7 +66,7 @@ Production-style financial research assistant combining:
 
 ---
 
-## 🤖 Financial Decision Assistant (Live at: http://18.217.220.60/)
+##  Financial Decision Assistant (Live at: http://18.217.220.60/)
 
 LLM-based financial reasoning assistant built using:
 - Qwen3-0.6B
@@ -94,7 +94,7 @@ LLM-based financial reasoning assistant built using:
 
 ---
 
-## ⚡ AI Automation & Workflow Systems
+##  AI Automation & Workflow Systems
 
 Built automation pipelines using:
 - Prompt chaining
@@ -111,7 +111,7 @@ Focus areas include:
 
 ---
 
-# 🧠 Technical Skills
+# Technical Skills
 
 ### AI / Machine Learning
 Python · PyTorch · Transformers · LoRA · RAG · LangChain · Scikit-learn · Time Series · Optimization
@@ -124,7 +124,7 @@ Pandas · NumPy · SQL · Financial Data Analysis · Technical Indicators · Vec
 
 ---
 
-# 📌 Resume & CV
+#  Resume & CV
 
 - Resume:  
   [Resume PDF](https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yanwei_Feng_resume.pdf)
@@ -134,7 +134,7 @@ Pandas · NumPy · SQL · Financial Data Analysis · Technical Indicators · Vec
 
 ---
 
-# 🌐 Links
+#  Links
 
 - LinkedIn:  
   [LinkedIn Profile](https://www.linkedin.com/in/yanwei-feng-284295288)
@@ -143,6 +143,6 @@ Pandas · NumPy · SQL · Financial Data Analysis · Technical Indicators · Vec
 
 ---
 
-# 📫 Contact
+#  Contact
 
 - Email: `yanweife@usc.edu`
