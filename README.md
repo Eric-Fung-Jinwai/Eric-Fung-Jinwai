@@ -130,7 +130,7 @@ Pandas · NumPy · SQL · Financial Data Analysis · Technical Indicators · Vec
   [Resume PDF](https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yanwei_Feng_resume.pdf)
 
 - CV:  
-  [CV PDF](https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/Yanwei_Feng_CV.pdf)
+  [CV PDF](https://github.com/Eric-Fung-Jinwai/Eric-Fung-Jinwai/blob/main/cv-yanwei-eric-feng.pdf)
 
 ---
 
